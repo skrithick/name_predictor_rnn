@@ -1,3 +1,5 @@
+(Just some notes I took, results of model at end)
+
 ## Why rnn?
 
 Basically when we've got sequential data (in this case, text), the length, size or nature of the data might not be known. Hence we use rnns so that we can look at the data one by one and store it in internal memory. It updates the memory as it moves through the data. This however used higher computational power.
